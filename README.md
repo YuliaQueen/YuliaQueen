@@ -12,8 +12,9 @@
 + Кроссбраузерность
 
 ***
+## Мои скиллы на данный момент:
 
-Skills: HTML5 / CSS3 / JS / JQuery/ Bootstrap
+HTML5 / CSS3 / JS / JQuery/ Bootstrap
 
 ***
 
@@ -30,4 +31,5 @@ PHP Yii2 ООП      | 2020     | В процессе
 
 [Вы можете поручить мне работу здесь!](https://www.fl.ru/users/youlkas)  
 [Можете добавить в друзья во Вконтакте](https://vk.com/youlkas)  
-[Или отправить весточку в Телеграм](https://t.me/YuliaQueen)
+[Или отправить весточку в Телеграм](https://t.me/YuliaQueen)    
+Ну или хоть email отправьте <youlka25@yandex.ru>
