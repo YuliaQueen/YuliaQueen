@@ -1,6 +1,6 @@
 ### Hi there 👋, Меня зовут Юлия
 #### И я умею верстать сайты :)
-(https://yuliaqueen.github.io/YuliaQueen/images/Yulia.png)
+![И я умею верстать сайты :)](https://yuliaqueen.github.io/YuliaQueen/images/Yulia.png)
 
 Навыки
 +Основная специализация Верстка + Wordpress
@@ -13,7 +13,7 @@
 
 Skills: HTML5 / CSS3 / JS / JQuery/ Bootstrap
 
-- 🌱 I’m currently learning React, Vue 
+- 🌱 I’m currently learning React, Vue, Yii2 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.fl.ru/users/youlkas/)  
