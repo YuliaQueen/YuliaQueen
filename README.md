@@ -16,4 +16,4 @@ Skills: HTML5 / CSS3 / JS / JQuery/ Bootstrap
 - 🌱 На данный момент я занимаюсь изучением React, Vue, Yii2 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.fl.ru/users/youlkas/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.fl.ru/users/youlkas/) <== вы можете поручить мне работу здесь!
