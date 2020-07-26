@@ -1,16 +1,19 @@
-### Hi there 👋
+### Всем привет 👋, Меня зовут Юлия
+#### И я умею верстать сайты :)
+![И я умею верстать сайты :)](https://yuliaqueen.github.io/YuliaQueen/images/Yulia.png)
 
-<!--
-**YuliaQueen/YuliaQueen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Навыки
++Основная специализация Верстка + Wordpress
++ БЭМ, HTML5, CSS3, jQuery, Gulp.js, Vue.js
++ Figma, Sketch, Photoshop, Avocode
++ Адаптивная верстка / Responsive/ Mobile first
++ Google Page Speed
++ Bootstrap, Less/Scss, Git
++ Кроссбраузерность
 
-Here are some ideas to get you started:
+Skills: HTML5 / CSS3 / JS / JQuery/ Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning React, Vue 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.fl.ru/users/youlkas/)  
