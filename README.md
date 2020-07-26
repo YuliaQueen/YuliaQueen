@@ -3,8 +3,8 @@
 ![И я умею верстать сайты :)](https://yuliaqueen.github.io/YuliaQueen/images/Yulia.png)
 
 Навыки
-+Основная специализация Верстка + Wordpress
-+ БЭМ, HTML5, CSS3, jQuery, Gulp.js, Vue.js
++Основная специализация Верстка
++ БЭМ, HTML5, CSS3, jQuery, Gulp.js, Yii2
 + Figma, Sketch, Photoshop, Avocode
 + Адаптивная верстка / Responsive/ Mobile first
 + Google Page Speed
@@ -13,7 +13,7 @@
 
 Skills: HTML5 / CSS3 / JS / JQuery/ Bootstrap
 
-- 🌱 На данный момент я занимаюсь изучением React, Vue, Yii2 
+- 🌱 На данный момент я занимаюсь изучением React, Vue, Wordpress 
 
 
 [Вы можете поручить мне работу здесь!](https://www.fl.ru/users/youlkas)
