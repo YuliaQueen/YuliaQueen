@@ -25,7 +25,7 @@ PHP Yii2 ООП      | 2020     | В процессе
 
 
 [Вы можете поручить мне работу на fl.ru!](https://www.fl.ru/users/youlkas)  
-[Вы можете поручить мне работу на freelancehunt.com!](https://freelancehunt.com/freelancer/YuliaQueen.html)
+[Вы можете поручить мне работу на freelancehunt.com!](https://freelancehunt.com/freelancer/YuliaQueen.html)  
 [Можете добавить в друзья во Вконтакте](https://vk.com/youlkas)  
 [Или отправить весточку в Телеграм](https://t.me/YuliaQueen)    
 Ну или хоть email отправьте <youlka25@yandex.ru>
