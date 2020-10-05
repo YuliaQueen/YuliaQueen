@@ -8,7 +8,7 @@
 + Figma, Sketch, Photoshop, Avocode
 + Адаптивная верстка / Responsive/ Mobile first
 + Google Page Speed
-+ Bootstrap, Less/Scss, Git
++ Less/Scss, Git
 + Кроссбраузерность
 
 ***
