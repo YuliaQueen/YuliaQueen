@@ -5,7 +5,7 @@
 ## Мои скиллы на данный момент:  
 + БЭМ, HTML5, CSS3, jQuery, Yii2, Laravel
 + Figma, Avocode
-+ Less/Scss, Git
++ Less/Sass, Git
 
 ***
 
