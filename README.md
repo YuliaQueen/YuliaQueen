@@ -11,3 +11,5 @@
 PHP - функциональное программирование  | 2019  | 100%
 WebCademy - верстка сайтов    | 2020   | 100%
 PHP Yii2 ООП      | 2020     | 
+OTUS PHP-Professional | 2022 | 100%
+FaangSchool - Java | 2023 | 90%
