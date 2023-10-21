@@ -2,6 +2,8 @@
 ![И я умею верстать сайты:)](https://yuliaqueen.github.io/YuliaQueen/images/Yulia.png)
 # Всем привет 👋, Меня зовут Юлия
 
+[![wakatime](https://wakatime.com/badge/user/9be4fa4d-2646-4746-8a6d-7cf1207c3be0.svg)](https://wakatime.com/@9be4fa4d-2646-4746-8a6d-7cf1207c3be0)
+
 ***
 
 ## Где я училась:
