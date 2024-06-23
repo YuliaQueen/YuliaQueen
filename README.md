@@ -15,4 +15,4 @@ WebCademy - верстка сайтов    | 2020   | 100%
 PHP Yii2 ООП      | 2020     | Устроилась на первую работу
 OTUS PHP-Professional | 2022 | 100%
 FaangSchool - Java | 2023 | 100%
-OTUS Фреймворк Laravel | 2024 | 28.05.2024 - 10.09.2024 (0%)
+OTUS Фреймворк Laravel | 2024 | in process
